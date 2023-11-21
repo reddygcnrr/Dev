@@ -1,0 +1,9 @@
+{
+	"name": "ETLSQLSSRS",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4ff9663b-31e1-47c2-8dd2-77862755d50c",
+		"tenantId": "ff355289-721e-4dd7-a663-afec62ab9d54"
+	}
+}
